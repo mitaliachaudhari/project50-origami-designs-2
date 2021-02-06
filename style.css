@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(165, 42, 63);
+}
+
+* {
+    border: solid;
+}
+
+.grid img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+.origami {
+    border-radius: 20px;
+    background-color: white;
+
+    width:310px;
+    font-family: fantasy;
+}
+.footer{
+    display:flex;
+    background-color: #104350;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #309045
+}
+.menu{
+    display: flex;
+    justify-content:  space-between;
+    background-color: rgb(68, 0, 255);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:rgb(245, 189, 179)
+}
